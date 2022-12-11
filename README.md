@@ -1,3 +1,5 @@
 # EXPLORER
 
+---
 permalink: /index.html
+---
