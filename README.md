@@ -1,5 +1,1 @@
 # EXPLORER
-
----
-permalink: /index.html
----
