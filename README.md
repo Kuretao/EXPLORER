@@ -1,1 +1,3 @@
 # EXPLORER
+
+permalink: /index.html
